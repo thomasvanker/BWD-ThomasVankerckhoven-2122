@@ -1,7 +1,7 @@
 # Basic Web Development
 
-- Academiejaar: 
-- Opleiding: 
-- Klasgroep: 
-- Naam: 
+- Academiejaar: 2020 - 2021 
+- Opleiding: Toegepaste informatica 
+- Klasgroep: 7 - 8
+- Naam: Thomas Vankerckhoven
 
