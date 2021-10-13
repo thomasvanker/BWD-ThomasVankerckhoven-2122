@@ -26,25 +26,25 @@ _beschrijf welke pagina’s je wil maken, en met welke inhoud / functionaliteit;
 naam: HomePage
 beschrijving:
 
-Hier zie je de meeste geluisterde nieuwe liedjes.
+Op deze pagina zal je een slider zien met de meeste geluisterde liedjes van het moment. Met daarbij een kolom rechts met live chatbox waar mensen hun reacties zeggen over de liedjes.
 
 ### PAGINA 2
-naam: Submit a song!
+naam: Upcoming artists
 beschrijving:
 
-Dit is een pagina waar dat mensen hun muziek kunnen promoten meestal onbekende artiesten die fame zoeken.
+Dit is een pagina waar dat mensen hun muziek kunnen promoten meestal onbekende artiesten die bekendheid zoeken. Hun naam wordt in het groot geschreven met een playable youtube video of mp3 file van een van hun liedje die zij kiezen.
 
 ### PAGINA 3
-naam: INFO
+naam: BIBLIOTHEEK
 beschrijving:
 
-Pagina dat uitlegt hoe dat de site werkt en voor wat het dient.
+Op deze pagina zal je al je muziek die je leuk vind kunnen bekijken. Hier zullen al de liedjes die je leuk vind onder elkaar staan met een kolom rechts met mogelijke liedjes die je leuk zou vinden.
 
 ### PAGINA 4
 naam: CONTACT US  
 beschrijving:
 
-Al de mogelijke manieren om ons te contacteren.
+Al de mogelijke manieren om ons te contacteren. Er zal een kolom links zijn met mogelijke contactgegevens en rechts links naar onze sociale media.
 
 ## E. REFERENTIES (optioneel) 
 https://soundcloud.com/discover 
