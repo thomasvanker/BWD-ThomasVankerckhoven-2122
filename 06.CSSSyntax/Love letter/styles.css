@@ -1,0 +1,27 @@
+html {
+    background-color: #fff;
+ }
+ 
+ body {
+    border: 10px solid white;
+    height: 600px;
+    margin: 20px auto;
+    max-width: 300px;   
+    padding: 40px 100px;
+ }
+ 
+ mark {
+    background-color: transparent;
+ }
+ 
+ footer {
+    margin-top: 40px;
+ }
+ 
+ footer p {
+    margin: 0;
+ }
+ 
+ .date {
+    margin-top: 10px;
+ }
