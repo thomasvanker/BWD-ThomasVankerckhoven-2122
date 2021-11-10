@@ -22,18 +22,17 @@
 }
 
 .btn3 {
-    background-color: rgb(168, 168, 168);
     background-image: url(img/logo-tiktok.png);
+    background-color: rgb(168, 168, 168);
     background-repeat: no-repeat;
     background-position-x: left;
     background-position-y: center;
-    background-size: 40px;
+    background-size: 35px;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: ;
-    padding: 15px;
+    padding: 15px 50px;
     text-decoration: none;
-    text-align: right;
+    
 }
 
 .btn1:hover {
@@ -50,7 +49,7 @@
 
 .btn3:hover {
     background-image: url(img/logo-tiktok.png);
-    background-size: 45px;
+    background-size: 40px;
     text-decoration: underline;
-    transition: background 0.5s, width 0.5s;
+    transition: background 0.2s, width 0.5s;
 }
