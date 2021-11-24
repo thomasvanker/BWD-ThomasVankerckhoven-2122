@@ -1,0 +1,32 @@
+.wrapper {
+    padding: 20px 50px;
+}
+    
+#einstein {
+    padding: 20px 40px;
+    margin: 0px -100px;
+}
+
+#slogan {
+    padding: 40px 40px;
+    margin: 0px -30px;
+}
+
+nav ul {
+    padding: 20px 20px;
+}
+
+li {
+    margin: 0 20px 0 0;
+}
+
+.main {
+    margin: 600px 600px;
+}
+
+#bestelnu{
+    margin: 60px 70px;
+}
+
+
+
